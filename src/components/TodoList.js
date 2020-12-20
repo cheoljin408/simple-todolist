@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import TodoHead from "./TodoHead";
 import TodoItem from "./TodoItem";
 
 const TodoListBlock = styled.div`
